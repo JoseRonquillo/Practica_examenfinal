@@ -1,20 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+def resultado:
+  res = num1 + num 2
+  return resultado
 
 
 
@@ -26,3 +12,4 @@ def main():
   print("La suma es:",res)
   
 main()
+
